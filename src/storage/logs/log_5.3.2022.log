@@ -1,0 +1,16 @@
+02:49 - Auth: No user was found with email admin@shop.com
+02:49 - Auth: No user was found with email admin@shop.com
+02:49 - Auth: No user was found with email admin@shop.com
+02:49 - Auth: No user was found with email admin@shop.com
+02:55 - Auth: No user was found with email admin@shop.com
+02:55 - Auth: No user was found with email admin@shop.com
+02:57 - Auth: user connected admin@shop.com
+03:28 - No CSRFName found, probable invalid request.
+03:29 - No CSRFName found, probable invalid request.
+03:29 - No CSRFName found, probable invalid request.
+07:17 - PDOException MySql : MySqlConnection.php line 35 
+ => SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+07:17 - MySql Error : Wrapper.php 43 line 
+ Whoops, could not connect to the MySql database!
+07:43 - No CSRFName found, probable invalid request.
